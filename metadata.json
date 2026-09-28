@@ -1,0 +1,9 @@
+{
+  "name": "DeafSound - ສຽງເຕືອນ",
+  "description": "Real-time environmental sound detection and tactile vibration alerting app for deaf and hard-of-hearing individuals in Laos.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
